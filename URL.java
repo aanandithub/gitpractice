@@ -120,12 +120,16 @@ public class URL{
 		Thread.sleep(2000);
 		System.out.println(getprice.getText());
 		
+<<<<<<< HEAD
 		//DriverManager.quitDriver();
 		
 		if()
 		{
 		
 		}
+=======
+		DriverManager.quitDriver();
+>>>>>>> main
 
 	}
 
