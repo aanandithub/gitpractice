@@ -120,7 +120,10 @@ public class URL{
 		Thread.sleep(2000);
 		System.out.println(getprice.getText());
 		
-		//DriverManager.quitDriver();
+		if(Hi)
+		{
+			S.O.println
+		}
 
 	}
 
