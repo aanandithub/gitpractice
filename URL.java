@@ -121,6 +121,11 @@ public class URL{
 		System.out.println(getprice.getText());
 		
 		//DriverManager.quitDriver();
+		
+		if()
+		{
+		
+		}
 
 	}
 
